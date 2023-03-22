@@ -18,7 +18,7 @@ terraform {
     organization = "REPLACE_ME"
 
     workspaces {
-      name = "gh-actions-demo"
+      name = "learn-terraform-github-actions"
     }
   }
 }
